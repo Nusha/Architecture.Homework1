@@ -1,4 +1,4 @@
-package ModelElements;
+package modelElements;
 
 public class Point3D {
 }

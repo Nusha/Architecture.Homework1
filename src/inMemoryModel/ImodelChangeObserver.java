@@ -1,4 +1,4 @@
-package InMemoryModel;
+package inMemoryModel;
 
 public class ImodelChangeObserver {
 }

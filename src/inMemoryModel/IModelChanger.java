@@ -1,4 +1,4 @@
-package InMemoryModel;
+package inMemoryModel;
 
 public interface IModelChanger {
     public void NotifyChange(IModelChanger sender);

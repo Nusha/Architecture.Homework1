@@ -1,4 +1,4 @@
-package ModelElements;
+package modelElements;
 
 public interface Type {
     Type method1(Type smth);

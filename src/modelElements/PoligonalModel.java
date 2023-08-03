@@ -1,4 +1,4 @@
-package ModelElements;
+package modelElements;
 
 public class PoligonalModel {
     public Poligon poligons;

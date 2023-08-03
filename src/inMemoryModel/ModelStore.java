@@ -1,5 +1,5 @@
-package InMemoryModel;
-import ModelElements.*;
+package inMemoryModel;
+import modelElements.*;
 public class ModelStore implements IModelChanger {
     public PoligonalModel models;
     public Scene scenes;

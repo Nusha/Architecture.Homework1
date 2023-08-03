@@ -1,4 +1,4 @@
-package ModelElements;
+package modelElements;
 
 public class Camera {
     public Point3D location;
